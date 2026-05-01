@@ -38,5 +38,5 @@ This project focuses on analyzing mobile sales data using Power BI. It demonstra
 This project highlights how data can be transformed into meaningful insights using Power BI, enabling better understanding of sales performance and customer behavior.
 
 ### About Me
-I am an Data Analyst with skills in Excel, SQL, Power BI, and python, passionate about turning data into actionable insights.
+I am Data Analyst with skills in Excel, SQL, Power BI, and python, passionate about turning data into actionable insights.
 
